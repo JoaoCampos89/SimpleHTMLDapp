@@ -9,6 +9,8 @@ This is a simple example of using Html as Dapp
 
 [Qtum Dapp Example](https://github.com/qtumproject/qtumjs-dapp-erc20)
 
+[Qtum Dapp Counter](https://github.com/hayeah/qtum-dapp-counter/blob/master/README.md)
+
 [Companion Qtum Docs](https://github.com/qtumproject/qtumbook/blob/master/part2/erc20-dapp.md)
 
 [QRC20 Token](https://github.com/qtumproject/QRC20Token)
