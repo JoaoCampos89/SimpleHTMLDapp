@@ -21,4 +21,6 @@ This is a simple example of using Html as Dapp
 
 [Solidity tutorial](https://solidity.readthedocs.io/en/v0.4.20/)
 
+[HTML RPC Client](https://github.com/HTMLCOIN/htmlcoind-rpc)
+
 [HTML COIN Repo](https://github.com/HTMLCOIN/HTMLCOIN)
